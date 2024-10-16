@@ -2,5 +2,11 @@
 UCT CSC2001F assignment1
 
 # Instructions
+
+# page 1
 ![csc2001-1](https://github.com/user-attachments/assets/6ea52619-adcd-43e1-9b24-bf2542152060)
+
+# page 2
+![csc2001-2](https://github.com/user-attachments/assets/39b03cea-74ca-40ab-ad9b-3be3bf453585)
+
 
