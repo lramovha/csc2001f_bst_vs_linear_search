@@ -2,5 +2,5 @@
 UCT CSC2001F assignment1
 
 # Instructions
-![Uploading csc2001-1.png…]()
+![csc2001-1](https://github.com/user-attachments/assets/6ea52619-adcd-43e1-9b24-bf2542152060)
 
