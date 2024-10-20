@@ -12,5 +12,9 @@ UCT CSC2001F assignment1
 # page 3
 ![csc2001-3](https://github.com/user-attachments/assets/7e6e2614-8eba-4aab-8b01-aab5f9d2bc12)
 
+# page 4
+![csc2001-4](https://github.com/user-attachments/assets/c1a2efd4-836c-444c-aa75-2cdf1af1c728)
+
+
 
 
